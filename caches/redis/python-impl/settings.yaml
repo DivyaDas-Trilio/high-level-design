@@ -1,5 +1,5 @@
-dev:
-  redis:
+default:
+  database:
     REDIS_HOST: '172.26.0.56'
     REDIS_PORT: '30079'
     password: 'mypassword'
